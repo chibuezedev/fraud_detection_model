@@ -20,7 +20,7 @@ Alternatively, you can install **Anaconda**, which comes with Jupyter pre-instal
    First, clone the project repository (if you haven't already):
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/chibuezedev/fraud_detection_model.git
    cd your-repository
    ```
 
