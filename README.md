@@ -21,7 +21,7 @@ Alternatively, you can install **Anaconda**, which comes with Jupyter pre-instal
 
    ```bash
    git clone https://github.com/chibuezedev/fraud_detection_model.git
-   cd your-repository
+   cd fraud_detection_model
    ```
 
 2. **Install Dependencies**
